@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "3rd Slide!"
+title: "2nd Slide!"
 ---
 
 Use the left arrow to go back!
